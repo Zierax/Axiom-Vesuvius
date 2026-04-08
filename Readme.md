@@ -18,10 +18,12 @@ These results were achieved in a **single 4-hour window** on a standard 8GB RAM 
 | **F1-Score** | **0.9661** |
 | **Precision** | **0.9685** |
 | **Recall** | **0.9638** |
-| **Inference Time** | **200 minutes** |
-| **Environment** | **Consumer Laptop (8GB RAM)** |
 | **Total Ink Pixels** | 83,612 |
 | **Predicted Pixels** | 83,205 |
+| **Total coding Time Start2End** | 17 hour |
+| **Inference Time** | **200 minutes** |
+| **Environment** | **Consumer Laptop (8GB RAM)** |
+
 
 **Architect’s Note:** The 3,030 False Negatives are a conscious architectural choice. In forensic reconstruction, **Verifiable Integrity** is paramount. I have no interest in "AI hallucinations" or probabilistic filler that looks good but lacks historical truth. I leave the "predictive guessing" to those with more GPUs than logic.
 
