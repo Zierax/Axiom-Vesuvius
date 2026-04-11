@@ -9,6 +9,7 @@ The reconstruction focuses on absolute clarity. We are not "generating" what we 
 
 * **Fragment 1 Overview:** [View Performance Chart](https://github.com/Zierax/Axiom-Vesuvius/blob/main/Benchmark/charts/Frag1_overview.png)
 * **Ink Mask Result:** [View Isolated Ink](https://github.com/Zierax/Axiom-Vesuvius/blob/main/Benchmark/per_fragment/Frag1/ink_mask.png)
+* * **The What (Mathimatical way to reach the same results without showing the Source Code):** [View](https://github.com/Zierax/Axiom-Vesuvius/blob/main/Logic.md)
 
 ## The Metrics (Hardware-Agnostic Precision)
 These results were achieved in a **single 4-hour window** on a standard 8GB RAM laptop. Unlike traditional methods that compensate for weak algorithms with massive compute power, this is the result of **Mathematical Intuition** applied to carbonized telemetry.
