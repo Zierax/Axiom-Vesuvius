@@ -23,7 +23,7 @@ AXIOM-VESUVIUS leverages a proprietary deterministic physical model to outperfor
 * **Material**: Carbonized papyrus with metallic/carbon-based ink signatures
 
 ![I hate your Clusters](per_fragment/Frag1/evidence.png)
-![I hate your Clusters](per_fragment/Frag1/inc_mask.png)
+![I hate your Clusters](per_fragment/Frag1/ink_mask.png)
 
 ## Technical Displacement
 While institutional methods rely on brute-force GPU clusters and high-latency neural network training, AXIOM-VESUVIUS operates on **Truthimatics**—a logic-driven approach that solves for ink presence through physical phenomenology rather than pattern guessing.
