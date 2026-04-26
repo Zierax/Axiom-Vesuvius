@@ -15,34 +15,34 @@
     "failed_samples": 0,
     "evidence_distribution_above_threshold": {
       "min": 0.5,
-      "max": 0.822869,
-      "mean": 0.506598,
-      "std": 0.023359,
-      "q95": 0.542821,
-      "q99": 0.627015
+      "max": 0.806457,
+      "mean": 0.522199,
+      "std": 0.041713,
+      "q95": 0.618244,
+      "q99": 0.679293
     }
   },
   "samples": [
     {
       "sample_rank": 1,
       "sample_coordinate": {
-        "x": 184,
-        "y": 402
+        "x": 172,
+        "y": 409
       },
       "physical_metrics": {
-        "z_gradient_normalized": 1.0,
-        "structural_entropy_normalized": 0.590436,
+        "z_gradient_normalized": 0.96228,
+        "structural_entropy_normalized": 0.582275,
         "surface_continuity_normalized": 1.0
       },
       "formula_components": {
-        "term_0_50_g1": 0.5,
-        "term_0_30_1_minus_g2": 0.122869,
+        "term_0_50_g1": 0.48114,
+        "term_0_30_1_minus_g2": 0.125318,
         "term_0_20_c": 0.2
       },
-      "mathematical_synthesis": "E(x,y) = 0.50(1.000000) + 0.30(1-0.590436) + 0.20(1.000000) = 0.822869",
+      "mathematical_synthesis": "E(x,y) = 0.50(0.962280) + 0.30(1-0.582275) + 0.20(1.000000) = 0.806457",
       "evidence_validation": {
-        "exported_evidence_value": 0.822869,
-        "reconstructed_evidence_value": 0.822869,
+        "exported_evidence_value": 0.806457,
+        "reconstructed_evidence_value": 0.806457,
         "absolute_difference": 0.0,
         "validation_status": "PASSED"
       },
@@ -51,23 +51,23 @@
     {
       "sample_rank": 2,
       "sample_coordinate": {
-        "x": 171,
-        "y": 410
+        "x": 150,
+        "y": 189
       },
       "physical_metrics": {
-        "z_gradient_normalized": 0.98282,
-        "structural_entropy_normalized": 0.590436,
+        "z_gradient_normalized": 0.913123,
+        "structural_entropy_normalized": 0.545746,
         "surface_continuity_normalized": 1.0
       },
       "formula_components": {
-        "term_0_50_g1": 0.49141,
-        "term_0_30_1_minus_g2": 0.122869,
+        "term_0_50_g1": 0.456562,
+        "term_0_30_1_minus_g2": 0.136276,
         "term_0_20_c": 0.2
       },
-      "mathematical_synthesis": "E(x,y) = 0.50(0.982820) + 0.30(1-0.590436) + 0.20(1.000000) = 0.814279",
+      "mathematical_synthesis": "E(x,y) = 0.50(0.913123) + 0.30(1-0.545746) + 0.20(1.000000) = 0.792838",
       "evidence_validation": {
-        "exported_evidence_value": 0.814279,
-        "reconstructed_evidence_value": 0.814279,
+        "exported_evidence_value": 0.792838,
+        "reconstructed_evidence_value": 0.792838,
         "absolute_difference": 0.0,
         "validation_status": "PASSED"
       },
@@ -76,23 +76,23 @@
     {
       "sample_rank": 3,
       "sample_coordinate": {
-        "x": 79,
-        "y": 334
+        "x": 171,
+        "y": 410
       },
       "physical_metrics": {
-        "z_gradient_normalized": 0.931667,
-        "structural_entropy_normalized": 0.590436,
+        "z_gradient_normalized": 0.965062,
+        "structural_entropy_normalized": 0.632547,
         "surface_continuity_normalized": 1.0
       },
       "formula_components": {
-        "term_0_50_g1": 0.465834,
-        "term_0_30_1_minus_g2": 0.122869,
+        "term_0_50_g1": 0.482531,
+        "term_0_30_1_minus_g2": 0.110236,
         "term_0_20_c": 0.2
       },
-      "mathematical_synthesis": "E(x,y) = 0.50(0.931667) + 0.30(1-0.590436) + 0.20(1.000000) = 0.788703",
+      "mathematical_synthesis": "E(x,y) = 0.50(0.965062) + 0.30(1-0.632547) + 0.20(1.000000) = 0.792767",
       "evidence_validation": {
-        "exported_evidence_value": 0.788703,
-        "reconstructed_evidence_value": 0.788703,
+        "exported_evidence_value": 0.792767,
+        "reconstructed_evidence_value": 0.792767,
         "absolute_difference": 0.0,
         "validation_status": "PASSED"
       },
