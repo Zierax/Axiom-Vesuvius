@@ -445,17 +445,11 @@ axiom_output/
 ## The Sovereign Proof Protocol
 For the purpose of external validation, AXIOM-VESUVIUS exports a **Phenomenology-Only** mathematical trace (`axiom_proof.json`). This allows third-party auditors to verify the physical consistency of the detections without access to the proprietary C-kernel implementation.
 
-### Validation Sample (x=184, y=402)
-* **Status**: PASSED
-* **Physical Indicators**: High Z-Gradient, Low Structural Entropy, Optimal Surface Continuity.
-* **Synthesis Verdict**: Mathematical Proof of Ink Density confirmed at **0.823** confidence.
-
 ## Benchmark Rationale: Why Logic Wins
 Traditional Deep Learning is computationally expensive and prone to hallucinations. AXIOM-VESUVIUS replaces billions of trainable parameters with a fixed **Deterministic Physical Model**:
 
 * **Feature Extraction**: Multi-dimensional voxel analysis focused on physical anomalies (density transitions, entropy shifts).
 * **Optimization**: Lightweight ensemble logic that filters for "Intentional Stroke Patterns" while disregarding natural papyrus decay.
-* **Result**: 96.5% F1-Score in **10 minutes** of CPU time, whereas CNN-based pipelines require hours of high-end GPU cycles for similar thresholds.
 
 ## Citation & Intellectual Property
 AXIOM-VESUVIUS and the associated Deterministic Logic are proprietary frameworks developed by **Ziad Salah (Zierax)**. 
