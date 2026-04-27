@@ -8,4 +8,4 @@ max_dim : 512
 ─── Per-Fragment Results ───
   Frag3         status=ok        F1=0.9733  P=0.9646  R=0.9821
 
-Average F1: 0.9733
+Average F1: 0.9733 
