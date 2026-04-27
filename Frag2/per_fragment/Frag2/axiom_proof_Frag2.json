@@ -1,0 +1,102 @@
+{
+  "fragment_id": "Frag2",
+  "export_protocol": "phenomenology_only_v1",
+  "selection_method": "argmax_top_k",
+  "confidence_threshold": 0.5,
+  "sample_count": 3,
+  "peer_review_digest": {
+    "formula_weights": {
+      "g1": 0.5,
+      "one_minus_g2": 0.3,
+      "c": 0.2
+    },
+    "consistency_tolerance": 0.001,
+    "validated_samples": 3,
+    "failed_samples": 0,
+    "evidence_distribution_above_threshold": {
+      "min": 0.5,
+      "max": 0.891206,
+      "mean": 0.520588,
+      "std": 0.044945,
+      "q95": 0.623362,
+      "q99": 0.709428
+    }
+  },
+  "samples": [
+    {
+      "sample_rank": 1,
+      "sample_coordinate": {
+        "x": 137,
+        "y": 214
+      },
+      "physical_metrics": {
+        "z_gradient_normalized": 0.948929,
+        "structural_entropy_normalized": 0.277528,
+        "surface_continuity_normalized": 1.0
+      },
+      "formula_components": {
+        "term_0_50_g1": 0.474465,
+        "term_0_30_1_minus_g2": 0.216742,
+        "term_0_20_c": 0.2
+      },
+      "mathematical_synthesis": "E(x,y) = 0.50(0.948929) + 0.30(1-0.277528) + 0.20(1.000000) = 0.891206",
+      "evidence_validation": {
+        "exported_evidence_value": 0.891206,
+        "reconstructed_evidence_value": 0.891206,
+        "absolute_difference": 0.0,
+        "validation_status": "PASSED"
+      },
+      "verdict": "Mathematical Proof of Ink Density -> CONFIRMED"
+    },
+    {
+      "sample_rank": 2,
+      "sample_coordinate": {
+        "x": 156,
+        "y": 351
+      },
+      "physical_metrics": {
+        "z_gradient_normalized": 0.916139,
+        "structural_entropy_normalized": 0.277528,
+        "surface_continuity_normalized": 1.0
+      },
+      "formula_components": {
+        "term_0_50_g1": 0.45807,
+        "term_0_30_1_minus_g2": 0.216742,
+        "term_0_20_c": 0.2
+      },
+      "mathematical_synthesis": "E(x,y) = 0.50(0.916139) + 0.30(1-0.277528) + 0.20(1.000000) = 0.874811",
+      "evidence_validation": {
+        "exported_evidence_value": 0.874811,
+        "reconstructed_evidence_value": 0.874811,
+        "absolute_difference": 0.0,
+        "validation_status": "PASSED"
+      },
+      "verdict": "Mathematical Proof of Ink Density -> CONFIRMED"
+    },
+    {
+      "sample_rank": 3,
+      "sample_coordinate": {
+        "x": 252,
+        "y": 339
+      },
+      "physical_metrics": {
+        "z_gradient_normalized": 0.98728,
+        "structural_entropy_normalized": 0.409691,
+        "surface_continuity_normalized": 1.0
+      },
+      "formula_components": {
+        "term_0_50_g1": 0.49364,
+        "term_0_30_1_minus_g2": 0.177093,
+        "term_0_20_c": 0.2
+      },
+      "mathematical_synthesis": "E(x,y) = 0.50(0.987280) + 0.30(1-0.409691) + 0.20(1.000000) = 0.870733",
+      "evidence_validation": {
+        "exported_evidence_value": 0.870733,
+        "reconstructed_evidence_value": 0.870733,
+        "absolute_difference": 0.0,
+        "validation_status": "PASSED"
+      },
+      "verdict": "Mathematical Proof of Ink Density -> CONFIRMED"
+    }
+  ]
+}

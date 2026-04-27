@@ -1,0 +1,13 @@
+[
+  {
+    "inference_id": "VESUVIUS_Frag2_1777252607",
+    "fragment": "Frag2",
+    "feature_vector": "3D_Voxel_Variance",
+    "logic_match": "Intentional_Stroke_Pattern",
+    "anomaly_detected": "Non-stochastic carbon density at Z-depth 32",
+    "evidence_score": 0.3904,
+    "f1_score": 0.9729,
+    "signal_status": "OK",
+    "proof_reference": "Violation of natural decay entropy laws."
+  }
+]

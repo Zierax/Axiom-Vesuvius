@@ -1,0 +1,11 @@
+AXIOM-VESUVIUS  REPORT
+Run ID  : 20260427_005512
+Date    : 2026-04-27T01:16:48.356871
+Fragments: ['Frag2']
+Z-range : [22, 32)
+max_dim : 512
+
+─── Per-Fragment Results ───
+  Frag2         status=ok        F1=0.9729  P=0.9988  R=0.9484
+
+Average F1: 0.9729
